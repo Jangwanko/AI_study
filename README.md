@@ -6,4 +6,4 @@
 
 모두의 딥러닝 - 길벗
 
-현재 네이버 [부스트캠프 AI Tech 3기] Pre-Course를 수강중
+현재 네이버 [부스트캠프 AI Tech 3기] Pre-Course를 수강하였음
